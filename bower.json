@@ -1,0 +1,22 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery-migrate": "~1.2.1"
+  },
+  "authors": [
+    "Test"
+  ],
+  "license": "MIT"
+}
